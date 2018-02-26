@@ -1,4 +1,4 @@
-//a POST routes /api/friends - this handles incoming survey results. will also used to handle the compatibility logic
+//a POST routes /api/friends - this handles incoming survey results. will also be used to handle the compatibility logic
 //Load Data
 var friendList = require('../data/friends.js');
 
