@@ -9,18 +9,18 @@ https://mighty-lake-53742.herokuapp.com/
 Home
 
 ![Screen shot 2](screenshots/survey.jpg)
-![Screen shot 2](screenshots/survey2.jpg)
+![Screen shot 3](screenshots/survey2.jpg)
 Survey
 
-![Screen shot 2](screenshots/newBFF.jpg)
-![Screen shot 2](screenshots/newBFF2.jpg)
-![Screen shot 2](screenshots/newBFF3.jpg)
+![Screen shot 4](screenshots/newBFF.jpg)
+![Screen shot 5](screenshots/newBFF2.jpg)
+![Screen shot 6](screenshots/newBFF3.jpg)
 Your New BFF!
 
-![Screen shot 2](screenshots/partialfriendslist.jpg)
+![Screen shot 7](screenshots/partialfriendslist.jpg)
 Friends List
 
-![Screen shot 2](screenshots/FriendsLink.jpg)
+![Screen shot 8](screenshots/FriendsLink.jpg)
 Working Friends Link
 
 
